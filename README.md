@@ -1003,6 +1003,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [NFC Emulator](https://www.coolapk.com/apk/com.yuanwofei.cardemulator) **`MD-` `Monet`**
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [Tomb](https://jinnian.lanzouy.com/iTJGC0ovdsjg) **`MD`** 
+   	- [GAppsMod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
